@@ -1,0 +1,13 @@
+order_id,customer,city,product,quantity,price,status,order_date,total
+1001,Rahul,Delhi,Laptop,1,55000,completed,2026-08-01,55000
+1002,Anita,Mumbai,Mouse,2,700,completed,2026-08-01,1400
+1003,Ravi,Bangalore,Keyboard,1,1500,pending,2026-08-02,1500
+1004,Priya,Delhi,Monitor,2,12000,completed,2026-08-02,24000
+1005,Arjun,Mumbai,Laptop,1,55000,completed,2026-08-03,55000
+1006,Neha,Chennai,Mouse,3,700,cancelled,2026-08-03,2100
+1007,Amit,Delhi,Keyboard,2,1500,completed,2026-08-04,3000
+1008,Sneha,Pune,Monitor,1,12000,completed,2026-08-04,12000
+1009,Vikas,Mumbai,Laptop,2,55000,completed,2026-08-05,110000
+1010,Kiran,Delhi,Mouse,5,700,pending,2026-08-05,3500
+1011,Rahul,Delhi,Laptop,1,55000,completed,2026-08-01,55000
+1012,Meena,Hyderabad,Keyboard,1,1500,completed,2026-08-06,1500
